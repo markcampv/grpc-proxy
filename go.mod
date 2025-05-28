@@ -1,4 +1,4 @@
-module github.com/hashi-derek/grpc-proxy
+module github.com/markcampv/grpc-proxy
 
 go 1.14
 
